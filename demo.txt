@@ -1,2 +1,4 @@
 new file
 file 3
+file 2
+
